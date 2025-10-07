@@ -16,7 +16,7 @@ const HomePage = () => {
       </header>
 
       {/* Hero Section */}
-      <main className="flex-1 relative overflow-hidden">
+      <main className="flex-1 relative overflow-hidden bg-white">
         {/* Content */}
         <div className="relative container mx-auto px-4 py-12 md:py-20">
           <div className="max-w-4xl mx-auto text-center space-y-8">
