@@ -7,11 +7,11 @@ const HomePage = () => {
       {/* Header */}
       <header className="bg-[#3a4a3d] py-6 px-8">
         <div className="container mx-auto flex justify-center">
-          <img 
-            src="https://images.unsplash.com/photo-1605985164794-1381886da3af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTg3MTl8MHwxfHNlYXJjaHwxfHxUaGUlMjBsb2dvJTIwb2YlMjBHUkglMjBHcmFzc3Jvb3RzJTIwSGFydmVzdCUyQyUyMGZlYXR1cmluZyUyMGElMjBzdHlsaXplZCUyMGRlc2lnbiUyMHdpdGglMjB0ZXh0LnxlbnwwfHx8fDE3NTk4NjExNzl8MA&ixlib=rb-4.1.0&q=80&w=200$w=500" 
-            alt="GRH Grassroots Harvest" 
-            className="h-16 md:h-20 w-auto"
-          />
+          <img
+            src="https://cdn.ezsite.ai/AutoDev/20814/bd355d5e-d53b-4600-b83c-32b6a1c6a4b0.webp"
+            alt="GRH Grassroots Harvest"
+            className="h-16 md:h-20 w-auto" />
+
         </div>
       </header>
 
