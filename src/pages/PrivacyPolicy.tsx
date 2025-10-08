@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const PrivacyPolicy = () => {
   return (
-    <div className="min-h-screen flex flex-col bg-[#f5f1e8]">
+    <div className="bg-[#ffffff1f] min-h-screen flex flex-col">
       {/* Header */}
       <header className="bg-[#3a4a3d] py-6 px-8">
         <div className="container mx-auto flex justify-center">
