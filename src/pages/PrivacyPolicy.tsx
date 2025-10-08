@@ -18,7 +18,7 @@ const PrivacyPolicy = () => {
       </header>
 
       {/* Main Content */}
-      <main className="flex-1 container mx-auto px-4 py-12 max-w-4xl">
+      <main className="flex-1 container mx-auto px-4 py-12 max-w-4xl bg-white">
         <div className="bg-white rounded-lg shadow-sm p-8 md:p-12">
           <h1 className="text-4xl md:text-5xl font-black text-gray-900 mb-8 uppercase">
             Privacy Policy
